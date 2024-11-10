@@ -1,0 +1,1 @@
+This is a simple Pong game written in Python to get me familiar with the Python programming language. 
